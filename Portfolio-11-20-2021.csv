@@ -1,0 +1,373 @@
+Id,Symbol,Name,DisplaySymbol,Exchange,Portfolio,Currency,Quantity,Cost Per Share,Cost Basis Method,Commission,Date,TimeOfDay,PurchaseFX,Type,Method,Method Execution Ids,Notes        
+
+"1","^DJI","Dow Jones Industrial Average",,"DJI","My Portfolio","USD",,,,,,,,,,,
+        
+"2","^DJI","Dow Jones Industrial Average",,"DJI","My Portfolio","USD",,,,,,,,,,,
+        
+"3","^DJI","Dow Jones Industrial Average",,"DJI","My Portfolio","USD",,,,,,,,,,,
+        
+"4","^DJI","Dow Jones Industrial Average",,"DJI","My Portfolio","USD",,,,,,,,,,,
+        
+"5","^GSPC","S&P 500",,"SNP","My Portfolio","USD",,,,,,,,,,,
+        
+"6","^GSPC","S&P 500",,"SNP","My Portfolio","USD",,,,,,,,,,,
+        
+"7","^GSPC","S&P 500",,"SNP","My Portfolio","USD",,,,,,,,,,,
+        
+"8","^GSPC","S&P 500",,"SNP","My Portfolio","USD",,,,,,,,,,,
+        
+"9","^IXIC","NASDAQ Composite",,"NIM","My Portfolio","USD",,,,,,,,,,,
+        
+"10","^IXIC","NASDAQ Composite",,"NIM","My Portfolio","USD",,,,,,,,,,,
+        
+"11","^IXIC","NASDAQ Composite",,"NIM","My Portfolio","USD",,,,,,,,,,,
+        
+"12","^IXIC","NASDAQ Composite",,"NIM","My Portfolio","USD",,,,,,,,,,,
+        
+"13","GOOG","Alphabet Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"14","GOOG","Alphabet Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"15","GOOG","Alphabet Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+"16","GOOG","Alphabet Inc.",,"NMS","My Portfolio","USD","10","300","0","0","2014-11-12 GMT+0100","19:00:15",,"Buy",,,
+        
+"17","GOOG","Alphabet Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"18","AAPL","Apple Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"19","AAPL","Apple Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"20","AAPL","Apple Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"21","AAPL","Apple Inc.",,"NMS","My Portfolio","USD",,,,,,,,,,,
+"22","AAPL","Apple Inc.",,"NMS","My Portfolio","USD","50","80","0","0","2014-11-12 GMT+0100","19:00:15",,"Buy",,,
+        
+"23","MSFT","Microsoft Corporation",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"24","MSFT","Microsoft Corporation",,"NMS","My Portfolio","USD",,,,,,,,,,,
+"25","MSFT","Microsoft Corporation",,"NMS","My Portfolio","USD","100","30","0","0","2014-11-12 GMT+0100","19:00:15",,"Buy",,,
+        
+"26","MSFT","Microsoft Corporation",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"27","MSFT","Microsoft Corporation",,"NMS","My Portfolio","USD",,,,,,,,,,,
+        
+"28","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"29","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","400","13.87","0","0","2019-07-26 GMT+0200","05:00:00",,"Buy",,,
+"30","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","16.6","0","0","2019-07-31 GMT+0200","05:00:00",,"Buy",,,
+"31","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","17.61","0","0","2019-10-03 GMT+0200","05:00:00",,"Buy",,,
+"32","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.57","0","0","2019-10-07 GMT+0200","05:00:00",,"Buy",,,
+"33","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.95","0","0","2019-11-07 GMT+0100","04:00:00",,"Buy",,,
+"34","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","14.25","0","0","2019-11-12 GMT+0100","04:00:00",,"Buy",,,
+"35","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","13.39","0","0","2019-11-13 GMT+0100","04:00:00",,"Buy",,,
+"36","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.3","0","0","2020-01-03 GMT+0100","04:00:00",,"Buy",,,
+"37","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","17.24","0","0","2020-01-27 GMT+0100","04:00:00",,"Buy",,,
+"38","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.59","0","0","2020-02-10 GMT+0100","04:00:00",,"Buy",,,
+"39","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","14.37","0","0","2020-03-05 GMT+0100","04:00:00",,"Buy",,,
+"40","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","12.84","0","0","2020-03-06 GMT+0100","04:00:00",,"Buy",,,
+"41","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","12.24","0","0","2020-03-06 GMT+0100","04:00:00",,"Buy",,,
+"42","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","10.5","0","0","2020-03-09 GMT+0100","04:00:00",,"Buy",,,
+"43","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","9.88","0","0","2020-03-11 GMT+0100","04:00:00",,"Buy",,,
+"44","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.55","0","0","2020-03-16 GMT+0100","04:00:00",,"Buy",,,
+"45","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","300","9.79","0","0","2020-04-09 GMT+0200","05:00:00",,"Buy",,,
+"46","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.89","0","0","2020-04-24 GMT+0200","05:00:00",,"Buy",,,
+"47","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.95","0","0","2020-05-20 GMT+0200","05:00:00",,"Buy",,,
+        
+"48","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"49","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","400","13.87","0","0","2019-07-25 GMT+0200","05:00:00",,"Buy",,,
+"50","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","16.6","0","0","2019-07-30 GMT+0200","05:00:00",,"Buy",,,
+"51","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","17.61","0","0","2019-10-02 GMT+0200","05:00:00",,"Buy",,,
+"52","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.57","0","0","2019-10-06 GMT+0200","05:00:00",,"Buy",,,
+"53","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.95","0","0","2019-11-06 GMT+0100","04:00:00",,"Buy",,,
+"54","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","14.25","0","0","2019-11-11 GMT+0100","04:00:00",,"Buy",,,
+"55","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","13.39","0","0","2019-11-12 GMT+0100","04:00:00",,"Buy",,,
+"56","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.3","0","0","2020-01-02 GMT+0100","04:00:00",,"Buy",,,
+"57","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","17.24","0","0","2020-01-26 GMT+0100","04:00:00",,"Buy",,,
+"58","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.59","0","0","2020-02-09 GMT+0100","04:00:00",,"Buy",,,
+"59","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","14.37","0","0","2020-03-04 GMT+0100","04:00:00",,"Buy",,,
+"60","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","12.84","0","0","2020-03-05 GMT+0100","04:00:00",,"Buy",,,
+"61","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","12.24","0","0","2020-03-05 GMT+0100","04:00:00",,"Buy",,,
+"62","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","10.5","0","0","2020-03-08 GMT+0100","04:00:00",,"Buy",,,
+"63","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","9.88","0","0","2020-03-10 GMT+0100","04:00:00",,"Buy",,,
+"64","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.55","0","0","2020-03-15 GMT+0100","04:00:00",,"Buy",,,
+"65","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","300","9.79","0","0","2020-04-08 GMT+0200","05:00:00",,"Buy",,,
+"66","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.89","0","0","2020-04-23 GMT+0200","05:00:00",,"Buy",,,
+"67","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.95","0","0","2020-05-19 GMT+0200","05:00:00",,"Buy",,,
+"68","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","800","15.99","0","0","2020-07-05 GMT+0200","05:00:00",,"Sell","FIFO",,"clear"
+"69","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","18.3","0","0","2020-07-21 GMT+0200","05:00:00",,"Sell","FIFO",,"modal"
+"70","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","800","22.35","0","0","2020-08-27 GMT+0200","15:40:00",,"Sell","FIFO",,
+"71","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","23.86","0","0","2020-11-30 GMT+0100","18:30:00",,"Sell","FIFO",,
+"72","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","500","34.02","0","0","2020-12-28 GMT+0100","18:00:00",,"Sell","FIFO",,
+"73","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","45.87","0","0","2021-01-26 GMT+0100","16:07:00",,"Sell","FIFO",,
+"74","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","51.33","0","0","2021-02-03 GMT+0100","19:18:00",,"Sell","FIFO",,
+        
+"75","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"76","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","12.23","0","0","2019-08-21 GMT+0200","05:00:00",,"Buy",,,
+"77","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","13.47","0","0","2020-01-15 GMT+0100","04:00:00",,"Buy",,,
+"78","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","13.1","0","0","2020-01-27 GMT+0100","04:00:00",,"Buy",,,
+"79","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","8.15","0","0","2020-03-25 GMT+0100","04:00:00",,"Buy",,,
+"80","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","9","0","0","2020-03-26 GMT+0100","04:00:00",,"Buy",,,
+        
+"81","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"82","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","12.23","0","0","2019-08-20 GMT+0200","05:00:00",,"Buy",,,
+"83","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","13.47","0","0","2020-01-14 GMT+0100","04:00:00",,"Buy",,,
+"84","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","13.1","0","0","2020-01-26 GMT+0100","04:00:00",,"Buy",,,
+"85","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","8.15","0","0","2020-03-24 GMT+0100","04:00:00",,"Buy",,,
+"86","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","9","0","0","2020-03-25 GMT+0100","04:00:00",,"Buy",,,
+"87","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","10.99","0","0","2020-07-29 GMT+0200","15:13:00",,"Buy",,,
+"88","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","700","9.97","0","0","2020-08-13 GMT+0200","18:32:00",,"Buy",,,"inter"
+"89","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","700","9.76","0","0","2020-08-27 GMT+0200","16:07:00",,"Buy",,,
+"90","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","1400","11.76","0","0","2020-12-28 GMT+0100","18:29:00",,"Buy",,,
+"91","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","500","10.52","0","0","2021-02-12 GMT+0100","14:35:00",,"Buy",,,
+        
+"92","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"93","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","1100","18","0","0","2018-05-28 GMT+0200","17:46:11",,"Buy",,,
+"94","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","300","15.93","0","0","2018-06-01 GMT+0200","18:14:58",,"Buy",,,
+"95","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","800","21.22","0","0","2018-09-27 GMT+0200","05:00:00",,"Sell","FIFO",,
+"96","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","600","26.5","0","0","2018-10-08 GMT+0200","05:00:00",,"Sell","FIFO",,
+"97","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","26.09","0","0","2020-02-26 GMT+0100","04:00:00",,"Buy",,,
+"98","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","17.75","0","0","2020-03-09 GMT+0100","04:00:00",,"Buy",,,
+"99","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","15.63","0","0","2020-03-09 GMT+0100","04:00:00",,"Buy",,,
+"100","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","16.55","0","0","2020-03-11 GMT+0100","04:00:00",,"Buy",,,
+"101","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","12.95","0","0","2020-03-16 GMT+0100","04:00:00",,"Buy",,,
+"102","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","200","13.58","0","0","2020-03-25 GMT+0100","04:00:00",,"Buy",,,
+"103","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","14.07","0","0","2020-03-26 GMT+0100","04:00:00",,"Buy",,,
+"104","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","13.48","0","0","2020-03-27 GMT+0100","04:00:00",,"Buy",,,
+        
+"105","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"106","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","1100","18","0","0","2018-05-27 GMT+0200","17:46:00",,"Buy",,,
+"107","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","300","15.93","0","0","2018-05-31 GMT+0200","18:14:00",,"Buy",,,
+"108","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","800","21.22","0","0","2018-09-26 GMT+0200","05:00:00",,"Sell","FIFO",,
+"109","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","600","26.5","0","0","2018-10-07 GMT+0200","05:00:00",,"Sell","FIFO",,
+"110","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","26.09","0","0","2020-02-25 GMT+0100","04:00:00",,"Buy",,,
+"111","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","17.75","0","0","2020-03-08 GMT+0100","04:00:00",,"Buy",,,
+"112","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","15.63","0","0","2020-03-08 GMT+0100","04:00:00",,"Buy",,,
+"113","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","16.55","0","0","2020-03-10 GMT+0100","04:00:00",,"Buy",,,
+"114","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","12.95","0","0","2020-03-15 GMT+0100","04:00:00",,"Buy",,,
+"115","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","200","13.58","0","0","2020-03-24 GMT+0100","04:00:00",,"Buy",,,
+"116","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","14.07","0","0","2020-03-25 GMT+0100","04:00:00",,"Buy",,,
+"117","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","13.48","0","0","2020-03-26 GMT+0100","04:00:00",,"Buy",,,
+"118","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","200","27.54","0","0","2021-01-26 GMT+0100","17:08:00",,"Sell","FIFO",,
+        
+"119","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"120","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","800","15.74","0","0","2018-10-29 GMT+0100","04:00:00",,"Buy",,,
+"121","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","1000","15.01","0","0","2018-12-21 GMT+0100","03:00:00",,"Buy",,,
+"122","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","1000","18.2","0","0","2019-06-19 GMT+0200","05:00:00","10","Sell","FIFO",,
+"123","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","800","19.05","0","0","2019-07-10 GMT+0200","05:00:00",,"Sell","FIFO",,
+"124","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","14.16","0","0","2020-02-28 GMT+0100","04:00:00",,"Buy",,,
+"125","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","14.74","0","0","2020-03-02 GMT+0100","04:00:00",,"Buy",,,
+        
+"126","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"127","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","800","15.74","0","0","2018-10-28 GMT+0100","04:00:00",,"Buy",,,
+"128","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","1000","15.01","0","0","2018-12-20 GMT+0100","03:00:00",,"Buy",,,
+"130","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","800","19.05","0","0","2019-07-09 GMT+0200","05:00:00",,"Sell","FIFO",,
+"131","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","14.16","0","0","2020-02-27 GMT+0100","04:00:00",,"Buy",,,
+"132","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","14.74","0","0","2020-03-01 GMT+0100","04:00:00",,"Buy",,,
+"133","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","400","12.65","0","0","2020-08-27 GMT+0200","15:56:00",,"Buy",,,
+        
+"134","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"135","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","6.83","0","0","2020-01-29 GMT+0100","04:00:00",,"Buy",,,
+"136","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","4.27","0","0","2020-04-22 GMT+0200","05:00:00",,"Buy",,,
+"137","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","3.57","0","0","2020-05-11 GMT+0200","05:00:00",,"Buy",,,
+"138","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","4.34","0","0","2020-06-01 GMT+0200","05:00:00",,"Buy",,,
+"139","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","4.95","0","0","2020-07-28 GMT+0200","05:00:00",,"Buy",,,
+"140","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","1100","4.65","0","0","2020-08-27 GMT+0200","15:52:00",,"Buy",,,
+"141","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","3.93","0","0","2020-10-06 GMT+0200","20:30:00",,"Buy",,,
+"142","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","500","3.77","0","0","2021-01-12 GMT+0100","19:16:00",,"Sell","FIFO",,
+"143","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","3.57","0","0","2021-01-22 GMT+0100","21:57:00",,"Buy",,,
+        
+"144","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"145","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","22.09","0","0","2020-03-04 GMT+0100","04:00:00",,"Buy",,,
+"146","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","16.18","0","0","2020-03-10 GMT+0100","04:00:00",,"Buy",,,
+"147","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","7.65","0","0","2020-03-19 GMT+0100","04:00:00",,"Buy",,,
+        
+"148","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"149","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","19.16","0","0","2020-03-15 GMT+0100","04:00:00",,"Buy",,,
+"150","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","14.65","0","0","2020-03-31 GMT+0200","05:00:00",,"Buy",,,
+"151","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","14.19","0","0","2020-04-26 GMT+0200","05:00:00",,"Buy",,,
+"152","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","11.11","0","0","2020-05-14 GMT+0200","05:00:00",,"Buy",,,
+        
+"153","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"154","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","100","6.26","0","0","2020-05-12 GMT+0200","05:00:00",,"Buy",,,
+"155","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","900","6.44","0","0","2020-05-17 GMT+0200","05:00:00",,"Buy",,,
+"156","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","6.8","0","0","2020-09-16 GMT+0200","16:05:00",,"Buy",,,
+"157","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","6.4","0","0","2020-09-21 GMT+0200","16:57:00",,"Buy",,,
+"158","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","200","6.16","0","0","2020-09-23 GMT+0200","19:45:00",,"Buy",,,
+"159","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","200","5.8","0","0","2020-10-29 GMT+0100","14:24:00",,"Buy",,,
+"160","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","5.89","0","0","2020-10-30 GMT+0100","16:27:00",,"Buy",,,
+        
+"161","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"162","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","6.83","0","0","2020-01-30 GMT+0100","04:00:00",,"Buy",,,
+"163","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","4.27","0","0","2020-04-23 GMT+0200","05:00:00",,"Buy",,,
+"164","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","3.57","0","0","2020-05-12 GMT+0200","05:00:00",,"Buy",,,
+        
+"165","BBDC4.SA","Bradesco Pn N1",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"166","BBDC4.SA","Bradesco Pn N1",,"SAO","Bovespa","BRL","100","21.69","0","0","2020-06-11 GMT+0200","05:00:00",,"Buy",,,
+        
+"167","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"168","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","22.09","0","0","2020-03-05 GMT+0100","04:00:00",,"Buy",,,
+"169","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","16.18","0","0","2020-03-11 GMT+0100","04:00:00",,"Buy",,,
+"170","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","7.65","0","0","2020-03-20 GMT+0100","04:00:00",,"Buy",,,
+        
+"171","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"172","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","19.16","0","0","2020-03-16 GMT+0100","04:00:00",,"Buy",,,
+"173","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","14.65","0","0","2020-04-01 GMT+0200","05:00:00",,"Buy",,,
+"174","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","14.19","0","0","2020-04-27 GMT+0200","05:00:00",,"Buy",,,
+"175","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","11.11","0","0","2020-05-15 GMT+0200","05:00:00",,"Buy",,,
+        
+"176","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"177","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","100","6.26","0","0","2020-05-13 GMT+0200","05:00:00",,"Buy",,,
+"178","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","900","6.44","0","0","2020-05-18 GMT+0200","05:00:00",,"Buy",,,
+        
+"179","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"180","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","400","13.87","0","0","2019-07-25 GMT+0200","05:00:00",,"Buy",,,
+"181","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","16.6","0","0","2019-07-30 GMT+0200","05:00:00",,"Buy",,,
+"182","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","17.61","0","0","2019-10-02 GMT+0200","05:00:00",,"Buy",,,
+"183","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.57","0","0","2019-10-06 GMT+0200","05:00:00",,"Buy",,,
+"184","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.95","0","0","2019-11-06 GMT+0100","04:00:00",,"Buy",,,
+"185","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","14.25","0","0","2019-11-11 GMT+0100","04:00:00",,"Buy",,,
+"186","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","13.39","0","0","2019-11-12 GMT+0100","04:00:00",,"Buy",,,
+"187","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.3","0","0","2020-01-02 GMT+0100","04:00:00",,"Buy",,,
+"188","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","17.24","0","0","2020-01-26 GMT+0100","04:00:00",,"Buy",,,
+"189","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","15.59","0","0","2020-02-09 GMT+0100","04:00:00",,"Buy",,,
+"190","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","14.37","0","0","2020-03-04 GMT+0100","04:00:00",,"Buy",,,
+"191","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","12.84","0","0","2020-03-05 GMT+0100","04:00:00",,"Buy",,,
+"192","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","12.24","0","0","2020-03-05 GMT+0100","04:00:00",,"Buy",,,
+"193","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","10.5","0","0","2020-03-08 GMT+0100","04:00:00",,"Buy",,,
+"194","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","9.88","0","0","2020-03-10 GMT+0100","04:00:00",,"Buy",,,
+"195","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.55","0","0","2020-03-15 GMT+0100","04:00:00",,"Buy",,,
+"196","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","300","9.79","0","0","2020-04-08 GMT+0200","05:00:00",,"Buy",,,
+"197","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.89","0","0","2020-04-23 GMT+0200","05:00:00",,"Buy",,,
+"198","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","8.95","0","0","2020-05-19 GMT+0200","05:00:00",,"Buy",,,
+"199","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","800","15.99","0","0","2020-07-05 GMT+0200","05:00:00",,"Sell","FIFO",,"clear"
+"200","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","18.3","0","0","2020-07-21 GMT+0200","05:00:00",,"Sell","FIFO",,"modal"
+"201","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","800","22.35","0","0","2020-08-27 GMT+0200","15:40:00",,"Sell","FIFO",,
+"202","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","200","23.86","0","0","2020-11-30 GMT+0100","18:30:00",,"Sell","FIFO",,
+"203","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","500","34.02","0","0","2020-12-28 GMT+0100","18:00:00",,"Sell","FIFO",,
+"204","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","45.87","0","0","2021-01-26 GMT+0100","16:07:00",,"Sell","FIFO",,
+"205","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","51.33","0","0","2021-02-03 GMT+0100","19:18:00",,"Sell","FIFO",,
+"206","BIDI4.SA","Banco Inter Pn N2",,"SAO","Bovespa","BRL","100","14.41","0","0","2021-10-06 GMT+0200","20:51:00",,"Buy",,,"inter"
+        
+"207","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL",,,,,,,,,,,
+"208","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","63","94.25","0","0","2019-10-10 GMT+0200","05:00:00",,"Buy",,,
+"209","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","20","96.92","0","0","2020-03-11 GMT+0100","04:00:00",,"Sell","FIFO",,
+"210","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","20","88.67","0","0","2020-03-16 GMT+0100","04:00:00",,"Sell","FIFO",,
+"211","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","10","88.23","0","0","2020-03-16 GMT+0100","04:00:00",,"Sell","FIFO",,
+"212","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","13","84.42","0","0","2020-05-22 GMT+0200","05:00:00",,"Sell","FIFO",,
+        
+"213","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL",,,,,,,,,,,
+"214","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","63","94.25","0","0","2019-10-09 GMT+0200","05:00:00",,"Buy",,,
+"215","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","20","96.92","0","0","2020-03-10 GMT+0100","04:00:00",,"Sell","FIFO",,
+"216","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","10","88.23","0","0","2020-03-15 GMT+0100","04:00:00",,"Sell","FIFO",,
+"217","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","20","88.67","0","0","2020-03-15 GMT+0100","04:00:00",,"Sell","FIFO",,
+"218","BCFF11.SA","Fii Bc Ffii Ci",,"SAO","Bovespa Inativo","BRL","13","84.42","0","0","2020-05-21 GMT+0200","05:00:00",,"Sell","FIFO",,
+        
+"219","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"220","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","12.23","0","0","2019-08-20 GMT+0200","05:00:00",,"Buy",,,
+"221","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","13.47","0","0","2020-01-14 GMT+0100","04:00:00",,"Buy",,,
+"222","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","13.1","0","0","2020-01-26 GMT+0100","04:00:00",,"Buy",,,
+"223","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","100","8.15","0","0","2020-03-24 GMT+0100","04:00:00",,"Buy",,,
+"224","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","9","0","0","2020-03-25 GMT+0100","04:00:00",,"Buy",,,
+"225","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","200","10.99","0","0","2020-07-29 GMT+0200","15:13:00",,"Buy",,,
+"226","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","700","9.97","0","0","2020-08-13 GMT+0200","18:32:00",,"Buy",,,"inter"
+"227","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","700","9.76","0","0","2020-08-27 GMT+0200","16:07:00",,"Buy",,,
+"228","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","1400","11.76","0","0","2020-12-28 GMT+0100","18:29:00",,"Buy",,,
+"229","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","500","10.52","0","0","2021-02-12 GMT+0100","14:35:00",,"Buy",,,
+"230","ITSA4.SA","Itausa Pn N1",,"SAO","Bovespa","BRL","1700","11.35","0","0","2021-10-18 GMT+0200","20:40:00",,"Sell","FIFO",,"Inter"
+        
+"231","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"232","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","1100","18","0","0","2018-05-28 GMT+0200","17:46:00",,"Buy",,,
+"233","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","300","15.93","0","0","2018-06-01 GMT+0200","18:14:00",,"Buy",,,
+"234","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","800","21.22","0","0","2018-09-27 GMT+0200","05:00:00",,"Sell","FIFO",,
+"235","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","600","26.5","0","0","2018-10-07 GMT+0200","05:00:00",,"Sell","FIFO",,
+"236","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","26.09","0","0","2020-02-25 GMT+0100","04:00:00",,"Buy",,,
+"237","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","17.75","0","0","2020-03-08 GMT+0100","04:00:00",,"Buy",,,
+"238","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","15.63","0","0","2020-03-08 GMT+0100","04:00:00",,"Buy",,,
+"239","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","16.55","0","0","2020-03-11 GMT+0100","04:00:00",,"Buy",,,
+"240","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","12.95","0","0","2020-03-16 GMT+0100","04:00:00",,"Buy",,,
+"241","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","200","13.58","0","0","2020-03-25 GMT+0100","04:00:00",,"Buy",,,
+"242","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","14.07","0","0","2020-03-26 GMT+0100","04:00:00",,"Buy",,,
+"243","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","100","13.48","0","0","2020-03-27 GMT+0100","04:00:00",,"Buy",,,
+"244","PETR4.SA","Petrobras Pn N2",,"SAO","Bovespa","BRL","200","27.54","0","0","2021-01-26 GMT+0100","17:08:00",,"Sell","FIFO",,
+        
+"245","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"246","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","800","15.74","0","0","2018-10-29 GMT+0100","04:00:00",,"Buy",,,
+"247","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","1000","15.01","0","0","2018-12-21 GMT+0100","03:00:00",,"Buy",,,
+"248","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","1000","18.2","0","0","2019-06-19 GMT+0200","05:00:00","10","Sell","FIFO",,
+"249","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","800","19.05","0","0","2019-07-09 GMT+0200","05:00:00",,"Sell","FIFO",,
+"250","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","14.16","0","0","2020-02-28 GMT+0100","04:00:00",,"Buy",,,
+"251","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","14.74","0","0","2020-03-02 GMT+0100","04:00:00",,"Buy",,,
+"252","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","400","12.65","0","0","2020-08-27 GMT+0200","15:56:00",,"Buy",,,
+"253","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","200","13.86","0","0","2021-03-02 GMT+0100","19:20:00",,"Sell","FIFO",,
+"254","ABEV3.SA","Ambev S/a On",,"SAO","Bovespa","BRL","600","17.6","0","0","2021-11-18 GMT+0100","14:28:00",,"Sell","FIFO",,"inter"
+        
+"255","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"256","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","6.83","0","0","2020-01-29 GMT+0100","04:00:00",,"Buy",,,
+"257","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","4.27","0","0","2020-04-23 GMT+0200","05:00:00",,"Buy",,,
+"258","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","3.57","0","0","2020-05-12 GMT+0200","05:00:00",,"Buy",,,
+"259","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","4.34","0","0","2020-06-01 GMT+0200","05:00:00",,"Buy",,,
+"260","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","4.95","0","0","2020-07-28 GMT+0200","05:00:00",,"Buy",,,
+"261","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","1100","4.65","0","0","2020-08-27 GMT+0200","15:52:00",,"Buy",,,
+"262","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","300","3.93","0","0","2020-10-06 GMT+0200","20:30:00",,"Buy",,,
+"263","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","500","3.77","0","0","2021-01-12 GMT+0100","19:16:00",,"Sell","FIFO",,
+"264","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","3.57","0","0","2021-01-22 GMT+0100","21:57:00",,"Buy",,,
+"265","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","500","3.65","0","0","2021-04-20 GMT+0200","16:32:00",,"Buy",,,"C6"
+"266","CIEL3.SA","Cielo On Nm",,"SAO","Bovespa","BRL","100","3.47","0","0","2021-05-12 GMT+0200","21:24:00",,"Buy",,,"Inter"
+        
+"267","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"268","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","22.09","0","0","2020-03-04 GMT+0100","04:00:00",,"Buy",,,
+"269","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","16.18","0","0","2020-03-10 GMT+0100","04:00:00",,"Buy",,,
+"270","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","7.65","0","0","2020-03-19 GMT+0100","04:00:00",,"Buy",,,
+"271","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","200","22.72","0","0","2021-03-17 GMT+0100","19:46:00",,"Sell","FIFO",,
+"272","GOLL4.SA","Gol Pn N2",,"SAO","Bovespa","BRL","100","20.01","0","0","2021-08-24 GMT+0200","17:19:00",,"Sell","FIFO",,"inter"
+        
+"273","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"274","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","19.16","0","0","2020-03-15 GMT+0100","04:00:00",,"Buy",,,
+"275","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","14.65","0","0","2020-03-31 GMT+0200","05:00:00",,"Buy",,,
+"276","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","14.19","0","0","2020-04-26 GMT+0200","05:00:00",,"Buy",,,
+"277","AZUL4.SA","Azul Pn N2",,"SAO","Bovespa","BRL","100","11.11","0","0","2020-05-14 GMT+0200","05:00:00",,"Buy",,,
+        
+"278","ETH-USD","Ethereum/USD",,"CryptoCompare","Cripto","USD",,,,,,,,,,,
+"279","ETH-USD","Ethereum/USD",,"CryptoCompare","Cripto","USD","4.24","180","0","0","2019-05-01 GMT+0200","05:00:00",,"Buy",,,
+        
+"280","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"281","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","100","6.26","0","0","2020-05-12 GMT+0200","05:00:00",,"Buy",,,
+"282","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","900","6.44","0","0","2020-05-18 GMT+0200","05:00:00",,"Buy",,,
+"283","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","6.8","0","0","2020-09-16 GMT+0200","16:05:00",,"Buy",,,
+"284","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","6.4","0","0","2020-09-21 GMT+0200","16:57:00",,"Buy",,,
+"285","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","200","6.16","0","0","2020-09-23 GMT+0200","19:45:00",,"Buy",,,
+"286","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","200","5.8","0","0","2020-10-29 GMT+0100","14:24:00",,"Buy",,,
+"287","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","5.89","0","0","2020-10-30 GMT+0100","16:27:00",,"Buy",,,
+"288","EMBR3.SA","Embraer On Nm",,"SAO","Bovespa","BRL","300","12.24","0","0","2021-03-03 GMT+0100","18:12:00",,"Sell","FIFO",,
+        
+"289","BBDC4.SA","Bradesco Pn N1",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"290","BBDC4.SA","Bradesco Pn N1",,"SAO","Bovespa","BRL","100","21.69","0","0","2020-06-11 GMT+0200","05:00:00",,"Buy",,,
+"291","BBDC4.SA","Bradesco Pn N1",,"SAO","Bovespa","BRL","100","22.91","0","0","2021-03-03 GMT+0100","15:28:00",,"Sell","FIFO",,
+        
+"292","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"293","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","200","11.06","0","0","2021-08-13 GMT+0200","15:54:00",,"Buy",,,"Inter"
+"294","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","200","7.49","0","0","2021-08-19 GMT+0200","15:59:00",,"Buy",,,"banco inter"
+"295","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","200","9.23","0","0","2021-08-24 GMT+0200","17:22:00",,"Buy",,,"inter"
+"296","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","200","8.1","0","0","2021-09-03 GMT+0200","21:12:00",,"Buy",,,
+"297","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","200","7.65","0","0","2021-09-08 GMT+0200","19:55:00",,"Buy",,,"c6"
+"298","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","700","6.64","0","0","2021-09-21 GMT+0200","19:33:00",,"Buy",,,"banco inter"
+"299","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","300","5.87","0","0","2021-10-06 GMT+0200","17:02:00",,"Buy",,,"banco inter"
+"300","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","4200","7.24","0","0","2021-10-14 GMT+0200","21:02:00",,"Buy",,,"Inter"
+"301","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","1900","5.41","0","0","2021-10-26 GMT+0200","17:57:00",,"Buy",,,"Inter"
+"302","TRAD3.SA","Tc On Nm",,"SAO","Bovespa","BRL","2900","5.13","0","0","2021-10-27 GMT+0200","21:16:00",,"Buy",,,"inter"
+        
+"303","BIDI11.SA","Banco Inter Unt N2",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"304","BIDI11.SA","Banco Inter Unt N2",,"SAO","Bovespa","BRL","400","48.25","0","0","2021-10-18 GMT+0200","20:44:00",,"Buy",,,"inter"
+        
+"305","MGLU3.SA","Magaz Luiza On Nm",,"SAO","Bovespa","BRL",,,,,,,,,,,
+"306","MGLU3.SA","Magaz Luiza On Nm",,"SAO","Bovespa","BRL","1100","9.43","0","0","2021-11-18 GMT+0100","14:29:00",,"Buy",,,
+        
+"307","ITSA4.SA","Itausa Pn N1",,"SAO","Mae","BRL",,,,,,,,,,,
+"308","ITSA4.SA","Itausa Pn N1",,"SAO","Mae","BRL","148","10.22","0","0","2021-05-07 GMT+0200","15:26:00",,"Buy",,,"C6"
+        
+"309","ETH-USD","Ethereum/USD",,"CryptoCompare","Cripto","USD",,,,,,,,,,,
+        
+"310","TRAD3.SA","Tc On Nm",,"SAO","Mae","BRL",,,,,,,,,,,
+"311","TRAD3.SA","Tc On Nm",,"SAO","Mae","BRL","100","10.74","0","0","2021-08-06 GMT+0200","21:02:00",,"Buy",,,"Inter"
+"312","TRAD3.SA","Tc On Nm",,"SAO","Mae","BRL","200","7.85","0","0","2021-08-17 GMT+0200","17:39:00",,"Buy",,,"c6"
+"313","TRAD3.SA","Tc On Nm",,"SAO","Mae","BRL","100","5.87","0","0","2021-10-06 GMT+0200","17:03:00",,"Buy",,,"inter"
+        
